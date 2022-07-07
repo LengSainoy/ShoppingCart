@@ -1,0 +1,17 @@
+[
+  {
+    "couponName": "Brownie Discount",
+    "appliedSku": 85294241,
+    "discountPrice": 0.79
+  },
+  {
+    "couponName": "Tofurky Discount",
+    "appliedSku": 61411728,
+    "discountPrice": 1.01
+  },
+  {
+    "couponName": "Spaghetti Discount",
+    "appliedSku": 30532705,
+    "discountPrice": 1.83
+  }
+]
